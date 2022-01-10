@@ -28,7 +28,6 @@ for (let i = 0; i < sampleAPIResponse.items.length; i++) {
   videoContainer.appendChild(itemDescription);
 
   gallery.appendChild(videoItemNode);
-
 }
 
 embed.src = 'https://www.youtube.com/embed/' + sampleAPIResponse.items[0].id.videoId;
