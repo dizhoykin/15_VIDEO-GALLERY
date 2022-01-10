@@ -63,6 +63,7 @@ aside li a {
   display: flex;
   align-items: top;
   gap: 20px;
+  cursor: pointer;
 }
 
 h3 {

@@ -690,3 +690,5 @@ const sampleAPIResponse = {
     }
   ]
 }
+
+export {sampleAPIResponse};
